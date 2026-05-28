@@ -1,5 +1,5 @@
 央视频道,#genre#
-更新日期: 更新日期: 2026-5-28 06:57:16,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260528064429&Channel_ID=0116_2600037000-99000-200300220106729&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.119&SecurityKey=20260528064429&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff9e55a3a9ed8fd37606e0c5a143bbfe
+更新日期: 更新日期: 2026-5-28 09:09:13,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260528064429&Channel_ID=0116_2600037000-99000-200300220106729&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.119&SecurityKey=20260528064429&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff9e55a3a9ed8fd37606e0c5a143bbfe
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260528064429&Channel_ID=0116_2600037000-99000-200300220106729&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.119&SecurityKey=20260528064429&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff9e55a3a9ed8fd37606e0c5a143bbfe
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260528064350&Channel_ID=0116_2600037000-99000-200300220106728&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.118&SecurityKey=20260528064350&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=27557094dee4f65ebe72ee77549ad433
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260528063528&Channel_ID=0116_2600037000-99000-200300220106718&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=113.6.228.108&SecurityKey=20260528063528&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=414722f51eea5fe1ccb32e0f7ec4f637
@@ -39,8 +39,8 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 江西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260528061605&Channel_ID=0116_2600037000-99000-200300220106695&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=113.6.228.3&SecurityKey=20260528061605&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8a5bfb8522930237cf7819e5dad3b28d
 广东地区,#genre#
 广东移动,http://183.11.239.36:808/hls/14/index.m3u8
-广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
 浙江地区,#genre#
@@ -81,7 +81,6 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-镇江2,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -113,10 +112,10 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-安徽地区,#genre#
-宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 重庆地区,#genre#
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+四川地区,#genre#
+泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -178,7 +177,6 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 新乡县综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 舞钢综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞钢综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
-鹤壁新闻,http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
